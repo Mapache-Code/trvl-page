@@ -16,7 +16,7 @@ function Cards() {
               path="/services"
             />
             <CardItem
-              src="images/img-2.webp"
+              src="images/img-6.webp"
               text="Travel through the Islands of Bali in a Private Cruise"
               label="Luxury"
               path="/services"
@@ -30,7 +30,7 @@ function Cards() {
               path="/services"
             />
             <CardItem
-              src="images/img-4.webp"
+              src="images/img-7.webp"
               text="Experience Football on Top of the Himilayan Mountains"
               label="Adventure"
               path="/products"
